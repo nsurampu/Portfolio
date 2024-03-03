@@ -9,21 +9,8 @@ import json
 st.set_page_config(page_title='Welcome!', layout='wide')
 
 
-# with open('images/self_image.png', "rb") as f:
-#     data = f.read()
-#     encoded = base64.b64encode(data)
-
-# with open('images/self_image_encoded', 'wb') as f:
-#     f.write(encoded)
-
-# with open('images/self_image_encoded', 'rb') as f:
-#     image_data = f.read()
-
-image_data = requests.get("https://github.com/nsurampu/Portfolio/blob/main/images/self_image_encoded")
-print(image_data.text['raw_lines'])
-image_data = "data:image/png;base64," + image_data#.decode("utf-8")
 with st.sidebar:
-    card(title="Get in touch!", text="LinkedIn", url="https://www.linkedin.com/in/naren-surampudi/", image=image_data,
+    card(title="Get in touch!", text="LinkedIn", url="https://www.linkedin.com/in/naren-surampudi/",
         styles={
             "card": {
                 "width": "100%"
