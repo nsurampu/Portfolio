@@ -13,20 +13,6 @@
       {
         "media": {
             "url": "",
-            "caption": "BITS Logo"
-        },
-        "start_date": {
-          "year": "2016",
-          "month":"8"
-        },
-        "text": {
-          "headline": "Admitted to BITS Pilani",
-          "text": "Joined BITS Pilani at their Hyderabad campus, where I would go on to major in Electronics & Communications Engineering, while not letting go of my love for Computer Science"
-        }
-      },
-      {
-        "media": {
-            "url": "",
             "caption": "AI/ML"
         },
         "start_date": {
@@ -35,7 +21,7 @@
         },
         "text": {
           "headline": "Found out about Machine Learning",
-          "text": "Came across Data, AI and ML for the first time and fell in love with it. Started down a rabbit hole that I'm yet to come out of"
+          "text": "Came across the world of Data, AI and ML for the first time at BITS Pilani. Started down a rabbit hole that I'm yet to come out of"
         }
       },
       {

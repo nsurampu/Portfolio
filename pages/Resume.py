@@ -9,8 +9,8 @@ tab1, tab2 = st.tabs(["Resume", "CV"])
 
 with tab1:
     st.download_button("Download Resume", data="")
-    st.markdown("Put resume here")
+    st.markdown("*Resume yet to be added*")
 
 with tab2:
     st.download_button("Download CV", data="")
-    st.markdown("Put CV here")
+    st.markdown("*CV yet to be added*")
