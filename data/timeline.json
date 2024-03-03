@@ -1,0 +1,168 @@
+{
+    "title": {
+        "media": {
+            "url": "",
+            "caption": "Signpost"
+        },
+        "text": {
+          "headline": "My Journey",
+          "text": "<p>Here's a brief glimpse into my data journey. The arrows will help you navigate this timelapse</p>"
+        }
+    },
+    "events": [
+      {
+        "media": {
+            "url": "",
+            "caption": "BITS Logo"
+        },
+        "start_date": {
+          "year": "2016",
+          "month":"8"
+        },
+        "text": {
+          "headline": "Admitted to BITS Pilani",
+          "text": "Joined BITS Pilani at their Hyderabad campus, where I would go on to major in Electronics & Communications Engineering, while not letting go of my love for Computer Science"
+        }
+      },
+      {
+        "media": {
+            "url": "",
+            "caption": "AI/ML"
+        },
+        "start_date": {
+          "year": "2018",
+          "month":"11"
+        },
+        "text": {
+          "headline": "Found out about Machine Learning",
+          "text": "Came across Data, AI and ML for the first time and fell in love with it. Started down a rabbit hole that I'm yet to come out of"
+        }
+      },
+      {
+        "media": {
+            "url": "",
+            "caption": "Reflexis Logo"
+        },
+        "start_date": {
+          "year": "2019",
+          "month":"7"
+        },
+        "text": {
+          "headline": "Data Science Internship - Fall of 2019",
+          "text": "Landed an internship at Reflexis Systems (Zebra Technologies), where I worked on prototyping multiple machine learning models in the retail workforce space"
+        }
+      },
+      {
+        "media": {
+            "url": "",
+            "caption": "Graduation"
+        },
+        "start_date": {
+          "year": "2020",
+          "month":"5"
+        },
+        "text": {
+          "headline": "Graduated from BITS Pilani",
+          "text": "Graduated with a BE in Electronics & Communications Engineering, all the while taking quite a number of CS courses over the semesters"
+        }
+      },
+      {
+        "media": {
+            "url": "",
+            "caption": "HSBC Logo"
+        },
+        "start_date": {
+          "year": "2020",
+          "month":"9"
+        },
+        "text": {
+          "headline": "First FT Job - Joined HSBC",
+          "text": "Landed my first full-time job at HSBC, joining as part of their Global Graduate Program"
+        }
+      },
+      {
+        "media": {
+            "url": "",
+            "caption": "TensorFlow Logo"
+        },
+        "start_date": {
+          "year": "2021",
+          "month":"1"
+        },
+        "text": {
+          "headline": "Got TensorFlow Certified",
+          "text": "Received my TensforFlow Developer Certification"
+        }
+      },
+      {
+        "media": {
+            "url": "",
+            "caption": "ML SWE"
+        },
+        "start_date": {
+          "year": "2021",
+          "month":"2"
+        },
+        "text": {
+          "headline": "Foray into ML Software Engineering",
+          "text": "Started working as a ML SWE, where I was responsible for building and deploying ML models that would help the bank reduce their incidents, outages and change risk"
+        }
+      },
+      {
+        "media": {
+            "url": "",
+            "caption": "Data Science"
+        },
+        "start_date": {
+          "year": "2022",
+          "month":"3"
+        },
+        "text": {
+          "headline": "Foray into Data Science",
+          "text": "Evolution of my role into more of a Data Scientist, where I was responsible for not only driving business critical analytics for executive level strategic decisions, but also transformation of data processes"
+        }
+      },
+      {
+        "media": {
+            "url": "",
+            "caption": "GaTech Logo"
+        },
+        "start_date": {
+          "year": "2022",
+          "month":"1"
+        },
+        "text": {
+          "headline": "Admitted to Georgia Tech",
+          "text": "Joined Georgia Tech's flagship OMSCS program, specializing in Interactive Intelligence"
+        }
+      },
+      {
+        "media": {
+            "url": "",
+            "caption": "Busy"
+        },
+        "start_date": {
+          "year": "2023",
+          "month":"1"
+        },
+        "text": {
+          "headline": "A Packed Year & becoming a Senior",
+          "text": "An empty timeline year, but packed to the brim with OMSCS and working in a new senior data role"
+        }
+      },
+      {
+        "media": {
+            "url": "",
+            "caption": "PowerBI Logo"
+        },
+        "start_date": {
+          "year": "2024",
+          "month":"1"
+        },
+        "text": {
+          "headline": "Got PowerBI Certified",
+          "text": "Received my Microsoft's PowerBI Data Analyst Associate Certification"
+        }
+      }
+    ]
+}
