@@ -26,7 +26,7 @@
       },
       {
         "media": {
-            "url": "https://github.com/nsurampu/Portfolio/blob/main/images/reflexis.jpg?raw=true",
+            "url": "https://github.com/nsurampu/Portfolio/blob/main/images/reflexis.png?raw=true",
             "caption": ""
         },
         "start_date": {
@@ -34,13 +34,13 @@
           "month":"7"
         },
         "text": {
-          "headline": "Data Science Internship - Fall of 2019",
+          "headline": "Joined Reflexis Systems",
           "text": "Landed an internship at Reflexis Systems (Zebra Technologies), where I worked on prototyping multiple machine learning models in the retail workforce space"
         }
       },
       {
         "media": {
-            "url": "https://github.com/nsurampu/Portfolio/blob/main/images/bits.jpg?raw=true",
+            "url": "https://github.com/nsurampu/Portfolio/blob/main/images/bits.png?raw=true",
             "caption": ""
         },
         "start_date": {
@@ -62,7 +62,7 @@
           "month":"9"
         },
         "text": {
-          "headline": "First FT Job - Joined HSBC",
+          "headline": "Joined HSBC",
           "text": "Landed my first full-time job at HSBC, joining as part of their Global Graduate Program"
         }
       },
@@ -138,7 +138,7 @@
       },
       {
         "media": {
-            "url": "https://github.com/nsurampu/Portfolio/blob/main/images/powerbi.jpg?raw=true",
+            "url": "https://github.com/nsurampu/Portfolio/blob/main/images/powerbi.png?raw=true",
             "caption": ""
         },
         "start_date": {
