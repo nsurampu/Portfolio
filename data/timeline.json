@@ -26,7 +26,7 @@
       },
       {
         "media": {
-            "url": "",
+            "url": "https://github.com/nsurampu/Portfolio/blob/main/images/reflexis.jpg?raw=true",
             "caption": ""
         },
         "start_date": {
@@ -40,7 +40,7 @@
       },
       {
         "media": {
-            "url": "",
+            "url": "https://github.com/nsurampu/Portfolio/blob/main/images/bits.jpg?raw=true",
             "caption": ""
         },
         "start_date": {
@@ -54,7 +54,7 @@
       },
       {
         "media": {
-            "url": "",
+            "url": "https://github.com/nsurampu/Portfolio/blob/main/images/hsbc.png?raw=true",
             "caption": ""
         },
         "start_date": {
@@ -68,7 +68,7 @@
       },
       {
         "media": {
-            "url": "",
+            "url": "https://github.com/nsurampu/Portfolio/blob/main/images/tensorflow.png?raw=true",
             "caption": ""
         },
         "start_date": {
@@ -110,7 +110,7 @@
       },
       {
         "media": {
-            "url": "",
+            "url": "https://github.com/nsurampu/Portfolio/blob/main/images/gatech.png?raw=true",
             "caption": ""
         },
         "start_date": {
@@ -118,7 +118,7 @@
           "month":"1"
         },
         "text": {
-          "headline": "Admitted to Georgia Tech",
+          "headline": "Admission into Georgia Tech",
           "text": "Joined Georgia Tech's flagship OMSCS program, specializing in Interactive Intelligence"
         }
       },
@@ -138,7 +138,7 @@
       },
       {
         "media": {
-            "url": "",
+            "url": "https://github.com/nsurampu/Portfolio/blob/main/images/powerbi.jpg?raw=true",
             "caption": ""
         },
         "start_date": {
