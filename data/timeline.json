@@ -5,8 +5,7 @@
             "caption": ""
         },
         "text": {
-          "headline": "My Journey",
-          "text": "<p>Here's a brief glimpse into my data journey. The arrows will help you navigate this timelapse</p>"
+          "text": "<p>Here's a brief glimpse into my data journey. Click on the arrows/swipe to begin</p>"
         }
     },
     "events": [
@@ -34,8 +33,8 @@
           "month":"7"
         },
         "text": {
-          "headline": "Joined Reflexis Systems",
-          "text": "Landed an internship at Reflexis Systems (Zebra Technologies), where I worked on prototyping multiple machine learning models in the retail workforce space"
+          "headline": "Interned at Reflexis Systems",
+          "text": "Interned at Reflexis Systems, where I worked on prototyping multiple machine learning models in the retail workforce space"
         }
       },
       {

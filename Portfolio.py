@@ -3,20 +3,15 @@ from streamlit_timeline import timeline
 from streamlit_extras.metric_cards import style_metric_cards
 from streamlit_card import card
 import base64
-import requests
-import json
 
 st.set_page_config(page_title='Welcome!', layout='wide')
 
 
 with st.sidebar:
-    card(title="Get in touch!", text="LinkedIn", url="https://www.linkedin.com/in/naren-surampudi/",
-        styles={
-            "card": {
-                "width": "100%"
-            }
-        }
-    )
+    side_col1, side_col2 = st.columns([1, 2])
+    side_col1.subheader('Get in touch!')
+    side_col2.link_button("LinkedIn", "https://www.linkedin.com/in/naren-surampudi/")
+    # st.image(image="https://github.com/nsurampu/Portfolio/blob/main/images/gatech.png?raw=true")
 
 st.header("Hi, I'm Naren Surampudi!")
 
@@ -32,6 +27,8 @@ st.markdown(intro_body)
 
 st.divider()
 
+st.header("Journey")
+
 with open('data/timeline.json', 'r') as f:
     timeline_data = f.read()
 timeline(timeline_data, height=400)
@@ -44,13 +41,13 @@ row1 = st.columns(4)
 row2 = st.columns(4)
 row3 = st.columns(4)
 
-skill_list = ["**Python**", "**AI & Machine Learning**", "**Data Science & Analyitcs**", "**Deep Learning**", "**Natural Language**",
-"**SQL**", "**PowerBI**", "**Pandas**", "**Dagster**", "**Streamlit**", "**Stakeholder Management**", "**Mentorship**"]
+skill_list = ["***Python***", "***AI & Machine Learning***", "***Data Science & Analyitcs***", "***Deep Learning***", "***Natural Language***",
+"***SQL***", "***PowerBI***", "***Pandas***", "***Dagster***", "***Streamlit***", "***Stakeholder Management***", "***Mentorship***"]
 
 i = 0
 for col in row1 + row2 + row3:
     tile = col.container(height=60, border=False)
-    tile.markdown(skill_list[i])
+    tile.button(skill_list[i])
     i += 1
 
 st.divider()
