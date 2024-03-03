@@ -3,7 +3,13 @@ from streamlit_card import card
 
 
 with st.sidebar:
-    card(title="LinkedIn", text="LinkedIn", url="https://www.linkedin.com/in/naren-surampudi/")
+    card(title="Get in touch!", text="LinkedIn", url="https://www.linkedin.com/in/naren-surampudi/",
+        styles={
+            "card": {
+                "width": "100%"
+            }
+        }
+    )
 
 tab1, tab2 = st.tabs(["Resume", "CV"])
 

@@ -2,7 +2,7 @@
     "title": {
         "media": {
             "url": "",
-            "caption": "Signpost"
+            "caption": ""
         },
         "text": {
           "headline": "My Journey",
@@ -13,7 +13,7 @@
       {
         "media": {
             "url": "",
-            "caption": "AI/ML"
+            "caption": ""
         },
         "start_date": {
           "year": "2018",
@@ -27,7 +27,7 @@
       {
         "media": {
             "url": "",
-            "caption": "Reflexis Logo"
+            "caption": ""
         },
         "start_date": {
           "year": "2019",
@@ -41,7 +41,7 @@
       {
         "media": {
             "url": "",
-            "caption": "Graduation"
+            "caption": ""
         },
         "start_date": {
           "year": "2020",
@@ -55,7 +55,7 @@
       {
         "media": {
             "url": "",
-            "caption": "HSBC Logo"
+            "caption": ""
         },
         "start_date": {
           "year": "2020",
@@ -69,7 +69,7 @@
       {
         "media": {
             "url": "",
-            "caption": "TensorFlow Logo"
+            "caption": ""
         },
         "start_date": {
           "year": "2021",
@@ -83,7 +83,7 @@
       {
         "media": {
             "url": "",
-            "caption": "ML SWE"
+            "caption": ""
         },
         "start_date": {
           "year": "2021",
@@ -97,7 +97,7 @@
       {
         "media": {
             "url": "",
-            "caption": "Data Science"
+            "caption": ""
         },
         "start_date": {
           "year": "2022",
@@ -111,7 +111,7 @@
       {
         "media": {
             "url": "",
-            "caption": "GaTech Logo"
+            "caption": ""
         },
         "start_date": {
           "year": "2022",
@@ -125,7 +125,7 @@
       {
         "media": {
             "url": "",
-            "caption": "Busy"
+            "caption": ""
         },
         "start_date": {
           "year": "2023",
@@ -139,7 +139,7 @@
       {
         "media": {
             "url": "",
-            "caption": "PowerBI Logo"
+            "caption": ""
         },
         "start_date": {
           "year": "2024",
