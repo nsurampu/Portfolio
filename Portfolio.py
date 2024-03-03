@@ -3,7 +3,8 @@ from streamlit_timeline import timeline
 from streamlit_extras.metric_cards import style_metric_cards
 from streamlit_card import card
 import base64
-import urllib2
+import requests
+import json
 
 st.set_page_config(page_title='Welcome!', layout='wide')
 
@@ -18,9 +19,9 @@ st.set_page_config(page_title='Welcome!', layout='wide')
 # with open('images/self_image_encoded', 'rb') as f:
 #     image_data = f.read()
 
-data = urllib2.urlopen("")
-
-image_data = "data:image/png;base64," + image_data.decode("utf-8")
+image_data = requests.get("https://github.com/nsurampu/Portfolio/blob/main/images/self_image_encoded")
+print(image_data.text['raw_lines'])
+image_data = "data:image/png;base64," + image_data#.decode("utf-8")
 with st.sidebar:
     card(title="Get in touch!", text="LinkedIn", url="https://www.linkedin.com/in/naren-surampudi/", image=image_data,
         styles={
