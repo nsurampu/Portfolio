@@ -21,11 +21,10 @@ with st.sidebar:
 st.header("Hi, I'm Naren Surampudi!")
 
 intro_body = '''
-And I like to refer to myself as an accidental data professional. Why is that? Well, I wasn't a big fan of numbers and math during my schooling days; I did love coding though, starting
-as early as 6th grade. If you had told my school-boy self that one day he would be working with math and numbers day-in and day-out, I'd bet he'd be quite shocked (and maybe a little bit crestfallen).\n
+And I like to refer to myself as an accidental data professional. Why is that? Well, I wasn't a big fan of numbers and math during my schooling days. If you had told my school-boy self that one day he would be working with math and numbers day-in and day-out,
+I'd bet he'd be quite shocked (and maybe a little bit crestfallen).\n
 Then how did I land up in this space? Well, I first fell in love with all things **Data**, **AI** and **Machine Learning** during college, when I came across a simple tutorial for predicting house prices. Looking back, it was
-a really simple thing, but at that time, it blew my mind. I could never have imagined being able to predict stuff, but more importantly, drive critical decisions that could potentially have far-reaching impact. That took me down the data
-rabbit hole that I doubt I'll try to get out of anytime soon.\n
+a really simple thing, but at that time, it blew my mind. That took me down the data rabbit hole that I doubt I'll try to get out of anytime soon.\n
 Today, my day-to-day work as a **Data Scientist** involves **helping business unlock the potential hidden in their data** and help them take **critical, strategic decisions** that have far reaching, global influence on the organization.
 '''
 
