@@ -2,3 +2,4 @@ streamlit
 streamlit-timeline
 streamlit-card
 streamlit-extras
+streamlit-pdf-viewer
