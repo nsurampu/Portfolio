@@ -64,7 +64,7 @@ with tab1:
     tile1 = col1.container(height=200, border=True)
     tile2 = col2.container(height=200, border=False)
     tile1.markdown("Built a machine learning pipeline to **predict risk of deployed changes** and reduce downtime due to failed changes. **Achieved signficant reduction in number of failed changes and downtime caused by failed changes**")
-    tile2.metric(label="Failed Changes", value="Decreased", delta="-25%", delta_color="inverse")
+    tile2.metric(label="Failed Changes", value="Decreased", delta="-45%", delta_color="inverse")
 
     col3, col4 = st.columns(2)
     tile1 = col3.container(height=200, border=True)
@@ -87,8 +87,8 @@ with tab1:
     col9, col10 = st.columns(2)
     tile1 = col9.container(height=200, border=True)
     tile2 = col10.container(height=200, border=False)
-    tile1.markdown("Built a **machine learning pipeline** to **forecast incidents/outages** across the bank to mitigate negative impact of incidents/outages. **Achieved signficant reduction in incident/outage volume due to actions driven by forecast**")
-    tile2.metric(label="Incident/Outage Volume", value="Decreased", delta="-15%", delta_color="inverse")
+    tile1.markdown("Built a **machine learning pipeline** to **forecast incidents and outages** across the bank to mitigate negative impact of incidents/outages. **Achieved signficant reduction in incident/outage volume due to actions driven by forecast**")
+    tile2.metric(label="Incident/Outage Volume", value="Decreased", delta="-25%", delta_color="inverse")
 
     style_metric_cards()
 
